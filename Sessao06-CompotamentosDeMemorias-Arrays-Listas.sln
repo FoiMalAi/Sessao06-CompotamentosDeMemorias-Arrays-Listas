@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores", "Vetores\Vetores.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VetProblemaExemplo02", "VetProblemaExemplo02\VetProblemaExemplo02.csproj", "{29180118-CC21-48EE-A6BD-0DF53BAF787C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProposto01", "ExercicioProposto01\ExercicioProposto01.csproj", "{1DB4CB40-9034-4E4E-9893-8F98368A92E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioProposto01", "ExercicioProposto01\ExercicioProposto01.csproj", "{1DB4CB40-9034-4E4E-9893-8F98368A92E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeEach", "ForeEach\ForeEach.csproj", "{A5DC921C-036E-423B-8261-C731BD2EE2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{67AD7638-78D7-44B2-94A8-5EF3C5E8DB69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{1DB4CB40-9034-4E4E-9893-8F98368A92E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DB4CB40-9034-4E4E-9893-8F98368A92E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DB4CB40-9034-4E4E-9893-8F98368A92E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DC921C-036E-423B-8261-C731BD2EE2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DC921C-036E-423B-8261-C731BD2EE2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DC921C-036E-423B-8261-C731BD2EE2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DC921C-036E-423B-8261-C731BD2EE2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AD7638-78D7-44B2-94A8-5EF3C5E8DB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AD7638-78D7-44B2-94A8-5EF3C5E8DB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AD7638-78D7-44B2-94A8-5EF3C5E8DB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AD7638-78D7-44B2-94A8-5EF3C5E8DB69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
