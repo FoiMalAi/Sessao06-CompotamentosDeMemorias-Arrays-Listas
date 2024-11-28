@@ -22,8 +22,8 @@
             Console.WriteLine("List Count: " + list.Count);
 
             /*Encontrar primeiro ou último elementos da
-            lista que satisfaça um predicado:*/
-            list.Find, list.FindLast
+            lista que satisfaça um predicado:
+            list.Find, list.FindLast*/
             string s1 = list.Find(x => x[0] == 'A');
             Console.WriteLine("first 'A': " + s1);
 
